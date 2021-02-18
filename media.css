@@ -1,0 +1,10 @@
+@media(max-width: 48em){
+    .barra{
+        display:flex;
+    }
+
+    .barra .link1,
+    .barra .link3{
+        display:flex;
+    }
+}
